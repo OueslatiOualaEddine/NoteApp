@@ -17,14 +17,14 @@ The **Note App** is a simple yet powerful tool for managing your daily notes. Wh
 
 ## Screenshots
 ### Home Screen - List of Notes
-<img src="Screenshots/Screenshot_20240822_234317.png" alt="List of Notes" width="300"/>
+<img src="Screenshots/Screenshot_20240822_234317.png" alt="List of Notes" width="400"/>
 
 ### Adding a New Note
-<img src="Screenshots/Screenshot_20240821_184231.png" alt="Add Note" width="300"/>
+<img src="Screenshots/Screenshot_20240821_184231.png" alt="Add Note" width="400"/>
 
 ### Editing an Existing Note
-<img src="Screenshots/Screenshot_20240822_235146.png" alt="Edit Note" width="300"/>
+<img src="Screenshots/Screenshot_20240822_235146.png" alt="Edit Note" width="400"/>
 
 ### Deleting a Note
-<img src="Screenshots/Screenshot_20240822_235227.png" alt="Delete Note" width="300"/>
+<img src="Screenshots/Screenshot_20240822_235227.png" alt="Delete Note" width="400"/>
 
