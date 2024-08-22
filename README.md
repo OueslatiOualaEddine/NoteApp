@@ -23,7 +23,7 @@ The **Note App** is a simple yet powerful tool for managing your daily notes. Wh
 ![Add Note](Screenshots/Screenshot_20240821_184231.png)
 
 ### Editing an Existing Note
-![Edit Note](Screenshots/Screenshot_20240821_184515.png)
+![Edit Note](Screenshots/Screenshot_20240822_235146.png)
 
 ### Deleting a Note
 ![Delete Note](Screenshots/Screenshot_20240821_184542.png)
