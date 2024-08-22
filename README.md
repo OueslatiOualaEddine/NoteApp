@@ -17,7 +17,7 @@ The **Note App** is a simple yet powerful tool for managing your daily notes. Wh
 
 ## Screenshots
 ### Home Screen - List of Notes
-![List of Notes](Screenshots/Screenshot_20240821_184118.png)
+![List of Notes](Screenshots/Screenshot_20240822_234317.png)
 
 ### Adding a New Note
 ![Add Note](Screenshots/Screenshot_20240821_184231.png)
